@@ -1,0 +1,16 @@
+li.comleted {
+   text-decoration: line-through;
+   color: grey;     
+}
+
+.filter {
+    color: red;
+}
+.filter.active {
+    font-weight: 600;
+    color: #5f0f0f;
+}
+
+#pagingcontainer a{
+    margin-right: 5px;
+}
